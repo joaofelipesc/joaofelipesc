@@ -8,4 +8,5 @@
   <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api?username=joaofelipesc&amp;show_icons=true&amp;theme=transparent"/>
 </div>
 
+
 ![Repositórios da Organização](https://img.shields.io/github/orgs/Bushido-Dojo?style=flat-square)
