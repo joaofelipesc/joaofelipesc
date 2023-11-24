@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-joaofelipesc/joaofelipesc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api?username=joaofelipesc&amp;show_icons=true&amp;theme=transparent"/> 
+  <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api/toplangs/username=joaofelipesc&amp;layout=compact&amp;theme=transparent"/>
+  
+</div>
