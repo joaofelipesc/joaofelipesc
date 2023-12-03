@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @joaofelipesc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <div align="center">
   <img height="160em" align="center" alt="javaScript" src="https://github-readme-stats.vercel.app/api?username=joaofelipesc&amp;show_icons=true&amp;theme=transparent"/>
 </div>
 
 
-![Repositórios da Organização](https://img.shields.io/github/orgs/Bushido-Dojo?style=flat-square)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipesc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
