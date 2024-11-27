@@ -1,6 +1,6 @@
 <div align="center">
 <header style="display: flex; align-items: center; justify-content: center; height: 300px; background-color: #007bff;">
-  <img src="https://i.imgur.com/RrwRp9s.jpeg" alt="João Felipe Coromberk" style="border-radius: 50%; width: 700px; height: 500px;">
+  <a href="url"><img src="https://i.imgur.com/RrwRp9s.jpeg" height="auto" width="600" style="border-radius:50%"></a>
 </header>
 
 
