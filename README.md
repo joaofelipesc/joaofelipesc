@@ -26,6 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofelipesc&layout=compact&theme=dark" alt="Top Languages" />
 
   <!-- Animação de cobra -->
-  <img src="https://github.com/joaofelipesc/joaofelipesc/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  # ![snake gif](https://github.com/joaofelipesc/joaofelipesc/blob/output/github-contribution-grid-snake.gif)
 
 </div>
