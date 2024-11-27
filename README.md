@@ -1,12 +1,9 @@
 <div align="center">
 
-  <!-- Imagem de perfil -->
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4" alt="Your Name" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/joaofelipesc" alt="João Felipe Coromberk" width="150" height="150" style="border-radius: 50%;">
 
-  <!-- Título de boas-vindas -->
   <h1>Bem-vindo(a)!</h1>
 
-  <!-- Badges de contato -->
   <p>
     <a href="mailto:joaocoromberk@gmail.com">
       <img src="https://img.shields.io/badge/-joaocoromberk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
@@ -19,7 +16,6 @@
     </a>
   </p>
 
-  <!-- Descrição -->
   <p>Desenvolvedor em Campinas, Brasil.</p>
 
   <!-- Estatísticas do GitHub -->
