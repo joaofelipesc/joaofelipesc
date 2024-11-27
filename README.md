@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/joaofelipesc" alt="João Felipe Coromberk" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/141670669?v=4" alt="João Felipe Coromberk" width="150" height="150" style="border-radius: 50%;">
 
   <h1>Bem-vindo(a)!</h1>
 
