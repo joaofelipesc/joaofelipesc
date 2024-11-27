@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/RrwRp9s.jpeg" alt="João Felipe Coromberk" width="700"  style="border-radius: 50%;">
+  <img src="https://i.imgur.com/RrwRp9s.jpeg" alt="João Felipe Coromberk" width="500"  style="border-radius: 50%;">
 
   <h1>Bem-vindo(a)!</h1>
 
