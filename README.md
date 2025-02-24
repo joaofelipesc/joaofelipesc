@@ -1,6 +1,6 @@
 <div align="center">
 <header style="display: flex; align-items: center; justify-content: center; height: 300px; background-color: #007bff;">
-  <a href="url"><img src="https://i.imgur.com/RrwRp9s.jpeg" height="460" width="600" style="border-radius:2%"></a>
+  https://github-readme-activity-graph.vercel.app/graph?username=joaofelipesc&bg_color=0d1117&color=FF0000&line=FF0000&point=FF0000&area=true&hide_border=true
 </header>
 
 
