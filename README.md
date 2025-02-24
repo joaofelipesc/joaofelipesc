@@ -1,10 +1,10 @@
 <div align="center">
-<header style="display: flex; align-items: center; justify-content: center; height: 300px; background-color: #007bff;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cc23319&bg_color=0d1117&color=FF0000&line=FF0000&point=FF0000&area=true&hide_border=true">
-</header>
+  <h1>Olá, Bem vindo!</h1>
 
+  <h3 style="font-family: 'Comic Sans MS', cursive, sans-serif;">
+  João Felipe <span style="color: yellow;">Silva Coromberk</span>
+</h3>
 
-  <h1>Bem-vindo(a)!</h1>
 
   <p>
     <a href="mailto:joaocoromberk@gmail.com">
