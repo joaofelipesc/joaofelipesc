@@ -46,7 +46,6 @@ const joaoFelipe = {
 ## Stacks
  
 <div align="center">
-**Languages**
  
 <img src="https://skillicons.dev/icons?i=java,cs,ts,js,py,kotlin&theme=dark" />
 <br/><br/>
