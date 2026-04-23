@@ -14,10 +14,8 @@
 </a>
 <br/><br/>
  
-![Profile Views](https://komarev.com/ghpvc/?username=joaofelipesc&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
  
 </div>
----
  
 ## `whoami`
  
